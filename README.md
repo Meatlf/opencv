@@ -1,4 +1,8 @@
-# github的测试
+# 说明
+
+1)本项目的主体为OpenCV2的官方代码,这里主要的目的是学习OpenCV2的源码,对代码进行编译,调试,注释,笔记.
+
+2)通过运行`run.sh`文件编译,运行OpenCV2.
 
 ## OpenCV: Open Source Computer Vision Library
 
